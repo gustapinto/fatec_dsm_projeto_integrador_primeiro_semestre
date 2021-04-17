@@ -25,3 +25,8 @@ Para que existam essas vagas teremos parcerias com empresas que as disponibilize
 1. Como lidar com as pessos que entraram recentemente na maioridade, cujos pais morreram e que não estão diretamente ligadas a um orfanato ?
 2. Quais empresas já prestam algum tipo de apoio parecido com esse ?
 3. Como funciona a questão documental pós orfanato dos orfãos que atingiram maior idade ?
+
+## Links e referências
+- http://www.justica.pr.gov.br/Noticia/Criancas-que-perderam-os-pais-durante-pandemia-da-COVID-19-terao-apoio-da-Secretaria-de#
+- https://brasil.elpais.com/brasil/2021-03-04/como-se-viram-as-familias-com-orfaos-da-covid-19.html
+- https://lunetas.com.br/orfaos-da-pandemia/
