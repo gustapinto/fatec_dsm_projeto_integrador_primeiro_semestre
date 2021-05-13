@@ -1,7 +1,7 @@
 # DSM - Projeto integrador primeiro semestre
 
 ## Ferramentas recomendadas
-**Criação de diagramas:** [Lucidchart](https://www.lucidchart.com/pages/pt)
+**Criação de diagramas:** [Lucidchart](https://www.lucidchart.com/pages/pt)  
 **Criação de wireframes e artes:** [Figma](https://www.figma.com/)  
 **Edição de documento:** Algum editor *WYSIWYG* que ofereça suporte a .docx, como **MS Word**, **Libreoffice Writer**, etc 
 
