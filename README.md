@@ -7,4 +7,5 @@
 
 ## Acesso rápido
 [Diagramas crus - LucidChart](https://lucid.app/folder/invitations/accept/inv_9ab579d6-fb04-45f0-80b0-446e823cd061)  
-[Esboços e telas - Figma](https://www.figma.com/files/project/26281933/PI-Primeiro-Semestre?fuid=952349321841240141)  
+[Esboços - Figma](https://www.figma.com/files/project/26281933/PI-Primeiro-Semestre?fuid=952349321841240141)  
+[Telas e protótipo - Figma](https://www.figma.com/file/EKzpBET8KKNqowKngOFdKR/Wireframe-sistema?node-id=0%3A1)  
