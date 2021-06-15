@@ -1,0 +1,13 @@
+Tópicos da apresentação
+
+1. Introdução
+    - Por que e para quem o projeto existe?
+    - Como estaremos agregando valor a sociedade e ao tópico discutido?
+
+2. Sistema
+    - Apresentar as telas do sistema
+    - Explicar o fluxo básico de funcionamento dele (como empresas, voluntários e órfãos vão conseguir usá-lo)
+    - Será preciso explicitar a documentação
+
+OBS:
+- Talvez seja interessante pesquisar mais a fundo o drama da orfandade no Brasil e no mundo, expressando esses dados por meios númericos e por gráficos
