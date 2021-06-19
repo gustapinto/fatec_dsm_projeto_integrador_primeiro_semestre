@@ -10,6 +10,8 @@
 | 0.1.5 | Iniciada conversão do *SRS* de *word* para *markdown*, transcrevendo toda a seção 1.* |
 | 0.1.6 | Transcrita a seção 2.1.* para *markdown*, também iniciada a documentação da sessão 2.2.* |
 | 0.1.7 | Ampliada seção de discussão sobre interface do usuário e verificações de coesão pelo texto |
+| 0.1.8 | Feita verificação e correção ortográfica na documentação |
+| 0.1.9 | Feita verificação e correção de sintaxe Markdown na documentação |
 
 # Documento de especificação de requisitos
 
@@ -89,22 +91,29 @@ Atualmente em fase de prototipagem, o sistema está sendo construído e mantido 
 
 
 ![Estrutura de componentes](https://user-images.githubusercontent.com/51335343/120253007-9d7e1e00-c25c-11eb-853d-0e0f1f41fd19.png)
+
 ## 2.3 Limites do sistema
 
 ### 2.3.1 Interação entre órfão e empresa
-A plataforma irá monitorar os órfãos recrutados através de pessoas de confiança que irão visitá-los periodicamente, garantindo assim a maior confiança por parte do órfão e os Direitos Humanos de cada indivíduo.
+A plataforma irá monitorar os órfãos recrutados através de pessoas de confiança que irão visitá-los periodicamente, garantindo assim a maior confiança por parte do órfão e os Direitos Humanos de cada indivíduo. <br>
+
 ### 2.3.2 Interação entre empresa e voluntário
-O sistema cobrirá a parte de parceria das duas entidades (empresa e voluntário), servindo como uma vitrine para ambos, visando facilitar o contato.
-Porém, todas as responsabilidades informacionais, comunicativas e principalmente legais, recaem unicamente e exclusivamente a quem o fizer, seja empresa ou voluntário.
+O sistema cobrirá a parte de parceria das duas entidades (empresa e voluntário), servindo como uma vitrine para ambos, visando facilitar o contato. <br>
+Porém, todas as responsabilidades informacionais, comunicativas e principalmente legais, recaem unicamente e exclusivamente a quem o fizer, seja empresa ou voluntário. <br>
+
 ## 2.4 Responsabilidades Legais
-### 2.4.1 Empresa
-É de responsabilidade total da empresa todo o processo de comunicação feita através da plataforma, bem como qualquer acordo feito com os usuários e/ou voluntários.
+
+### 2.4.1 Empresas parceiras
+É de responsabilidade total da empresa parceira todo o processo de comunicação feita através da plataforma, bem como qualquer acordo feito com os usuários e/ou voluntários. <br>
+
 ### 2.4.2 Voluntários
-É de responsabilidade total do voluntário todo o processo de comunicação, acordos e doações feitos em parceria com as empresas para ajudar os órfãos
-### 2.4.3 Gerência do Sistema
-É de responsabilidade total da gerência do sistema o gerenciamento das informações contidas no sistema, tais como: vagas, órfãos, voluntários e patrocinadores.
+É de responsabilidade total do voluntário todo o processo de comunicação, acordos e doações feitos em parceria com as empresas para ajudar os órfãos <br>
+
+### 2.4.3 Gerência e desenvolvedores do sistema
+É de responsabilidade total da gerência do sistema o gerenciamento das informações contidas no sistema, tais como: vagas, órfãos, voluntários e patrocinadores. <br>
+
 ### 2.4.3 Órfãos
-É de responsabilidade total dos órfãos a legibilidade  e autenticidade dos documentos e informações fornecidos no momento do cadastro. 
+É de responsabilidade total dos órfãos a legibilidade e autenticidade dos documentos e informações fornecidos no momento do cadastro. <br>
 
 
 
