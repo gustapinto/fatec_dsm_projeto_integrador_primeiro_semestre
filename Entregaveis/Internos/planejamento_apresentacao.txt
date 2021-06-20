@@ -1,0 +1,23 @@
+Slides
+
+1. - Se apresentar, e dar boa noite a todos
+
+2. - Explicar como queremos agregar valor a experiência da recêm maioridade do órfão
+   - Ressaltar o impacto da pandemia de Covid-19, que "criou" quase 45 mil novos órfãos
+
+3. - Ressaltar os problemas e as decisões vividas pelo jovem
+   - (frase de efeito) "Se até para aqueles que têm apoio essa fase é confusa então imaginem para aqueles que além de não o terem se veêm sozinhos no mundo"
+
+4. - Explicitar como ocorrem as relações entre as pessoas (desenvolvedores, empresa, órfãos, voluntários) que compôe o projeto
+
+5. - Ressaltar que o sistema de vagas é restrito aos órfãos e que ele trará novas oportunidades, nem que temporárias, de melhoria de vida
+
+6. - Explicar que is diversos perfis visualizam certas telas de forma diferente, com essa visualização sendo otimizada para as funcionalidades e necessidades do perfil
+
+7. - Apresentar o site e como ele oferecerá uma introdução ao sistema
+
+8. - Explicar que a interface do sistema será construída baseadndo-se em cards
+   - Essa composição do sistema permite que a interface seja facilmente escalada e alterada, mantendo um visual moderno e leve
+
+9. - Levantar que a colaboração com o projeto formará toda uma nova geração de profissionais preparados e bem itegrados ao mercado e ao convívio em sociedade
+   - Também levantar que essa parceria promove uma boa ação de marketing e eleva a visibilidade da empresa parceira como humanizada, frente a outras
